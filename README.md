@@ -51,7 +51,7 @@ Total Customers = DISTINCTCOUNT('Cleaned data'[CustomerID])
 6. Instagram ($276K) emerged as the most effective referral source, outperforming Email, Google, Facebook, and direct referrals.
 7. Order statuses are relatively balanced, indicating a stable order fulfillment process, though cancellations and returns still require attention.
 
-Recommendations
+## Recommendations
 1. Increase marketing investments on Instagram campaigns since it generates the highest revenue.
 2. Investigate factors behind the July–September sales decline and introduce targeted promotions during low-performing months.
 3. Bundle or upsell high-performing products such as Chairs, Printers, and Laptops to maximize revenue.
