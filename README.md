@@ -47,6 +47,14 @@ Key Insights
 6. Instagram ($276K) emerged as the most effective referral source, outperforming Email, Google, Facebook, and direct referrals.
 7. Order statuses are relatively balanced, indicating a stable order fulfillment process, though cancellations and returns still require attention.
 
+Recommendations
+🔹 Increase marketing investments on Instagram campaigns since it generates the highest revenue.
+🔹 Investigate factors behind the July–September sales decline and introduce targeted promotions during low-performing months.
+🔹 Bundle or upsell high-performing products such as Chairs, Printers, and Laptops to maximize revenue.
+🔹 Develop promotional campaigns for lower-performing products like Phones to improve sales contribution.
+🔹 Encourage digital payment adoption through cashback offers and discounts, leveraging customer preference for online and card payments.
+🔹 Monitor cancelled and returned orders closely to identify root causes and improve customer satisfaction.
+🔹 Implement customer retention programs to increase repeat purchases and improve lifetime customer value.
 
 
 
