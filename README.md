@@ -39,13 +39,13 @@ The unique number of individual buyers who have completed at least one transacti
 Total Customers = DISTINCTCOUNT('Cleaned data'[CustomerID])
 
 Key Insights
-📈 Revenue peaked in June ($171K), indicating a strong mid-year sales performance.
-📉 A noticeable decline in revenue and orders occurred from July to September, suggesting possible seasonal demand fluctuations.
-🪑 Chair ($196K) and Printer ($196K) generated the highest revenue among all products, making them top-performing product categories.
-📱 Phone ($152K) generated the lowest revenue, presenting an opportunity for sales improvement.
-💳 Credit Card ($264K) and Online Payments ($262K) were the most preferred payment methods, contributing the highest revenue.
-📢 Instagram ($276K) emerged as the most effective referral source, outperforming Email, Google, Facebook, and direct referrals.
-📦 Order statuses are relatively balanced, indicating a stable order fulfillment process, though cancellations and returns still require attention.
+1. Revenue peaked in June ($171K), indicating a strong mid-year sales performance.
+2. A noticeable decline in revenue and orders occurred from July to September, suggesting possible seasonal demand fluctuations.
+3. Chair ($196K) and Printer ($196K) generated the highest revenue among all products, making them top-performing product categories.
+4. Phone ($152K) generated the lowest revenue, presenting an opportunity for sales improvement.
+5. Credit Card ($264K) and Online Payments ($262K) were the most preferred payment methods, contributing the highest revenue.
+6. Instagram ($276K) emerged as the most effective referral source, outperforming Email, Google, Facebook, and direct referrals.
+7. Order statuses are relatively balanced, indicating a stable order fulfillment process, though cancellations and returns still require attention.
 
 
 
