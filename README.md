@@ -48,46 +48,14 @@ Key Insights
 7. Order statuses are relatively balanced, indicating a stable order fulfillment process, though cancellations and returns still require attention.
 
 Recommendations
-🔹 Increase marketing investments on Instagram campaigns since it generates the highest revenue.
-🔹 Investigate factors behind the July–September sales decline and introduce targeted promotions during low-performing months.
-🔹 Bundle or upsell high-performing products such as Chairs, Printers, and Laptops to maximize revenue.
-🔹 Develop promotional campaigns for lower-performing products like Phones to improve sales contribution.
-🔹 Encourage digital payment adoption through cashback offers and discounts, leveraging customer preference for online and card payments.
-🔹 Monitor cancelled and returned orders closely to identify root causes and improve customer satisfaction.
-🔹 Implement customer retention programs to increase repeat purchases and improve lifetime customer value.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Increase marketing investments on Instagram campaigns since it generates the highest revenue.
+2. Investigate factors behind the July–September sales decline and introduce targeted promotions during low-performing months.
+3. Bundle or upsell high-performing products such as Chairs, Printers, and Laptops to maximize revenue.
+4. Develop promotional campaigns for lower-performing products like Phones to improve sales contribution.
+5. Encourage digital payment adoption through cashback offers and discounts, leveraging customer preference for online and card payments.
+6. Monitor cancelled and returned orders closely to identify root causes and improve customer satisfaction.
+7. Implement customer retention programs to increase repeat purchases and improve lifetime customer value.
 
 
 ![alt text](https://github.com/udeme054/Task-4/blob/d73d162664d3403a57a01bc08dda1a4f3755399b/E-Commerce%20sales%20Analysis%20%20dashboard%20for%20project%204%20at%20Decode%20lab.jpg)
-!
+
