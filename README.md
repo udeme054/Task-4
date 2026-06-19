@@ -33,14 +33,16 @@ An efficiency metric calculated by dividung total revenue by total number of uni
 Revenue per customer = Divide ([Total revenue],[Total customers])
 
 ## 5. Total Quantity
-The gross volume of individual items sold across all transactions during a given period
+The gross volume of individual items sold across all transactions during a given period.
+
 Total Quantity = Sum('Cleaned data' [Quantity])
 
 ## 6. Total Customers
 The unique number of individual buyers who have completed at least one transaction within a specific timeframe.
+
 Total Customers = DISTINCTCOUNT('Cleaned data'[CustomerID])
 
-Key Insights
+## Key Insights
 1. Revenue peaked in June ($171K), indicating a strong mid-year sales performance.
 2. A noticeable decline in revenue and orders occurred from July to September, suggesting possible seasonal demand fluctuations.
 3. Chair ($196K) and Printer ($196K) generated the highest revenue among all products, making them top-performing product categories.
