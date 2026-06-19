@@ -1,6 +1,6 @@
 # E-Commerce Sales Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This repository hosts the *E-Commerce Sales Analysis Dashboard*, an interactive Power BI solution designed to transform transactional e-commerce data into high-impact business intelligence. The dashboard allows stakeholders to dynamically filter data by Payment Method, Coupon Code, Year, and Customer ID to evaluate customer acquisition performance, revenue sustainability, and operational metrics.
 
 ## Key Performance Indicators (KPIs)
@@ -56,6 +56,8 @@ Recommendations
 6. Monitor cancelled and returned orders closely to identify root causes and improve customer satisfaction.
 7. Implement customer retention programs to increase repeat purchases and improve lifetime customer value.
 
+## How to Run/View the project
+Dashboard: Open the dashbord file in "E-Commerce in E-Commerce sales Dashboard Project 4" to interact with the visualization
 
 ![alt text](https://github.com/udeme054/Task-4/blob/d73d162664d3403a57a01bc08dda1a4f3755399b/E-Commerce%20sales%20Analysis%20%20dashboard%20for%20project%204%20at%20Decode%20lab.jpg)
 
