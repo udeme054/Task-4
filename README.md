@@ -24,6 +24,7 @@ Total Orders = DISTINCTCOUNT('Cleaned data'[Order ID])
 
 ## 3. Average Order Value (AOV)
 Calculates the average monetary amount spent every time a customer places an order.
+
 Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
 
 ## 4. Revenue per Customer
