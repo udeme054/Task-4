@@ -61,7 +61,9 @@ Total Customers = DISTINCTCOUNT('Cleaned data'[CustomerID])
 7. Implement customer retention programs to increase repeat purchases and improve lifetime customer value.
 
 ## How to Run/View the project
-Dashboard: Open the dashbord file in "E-Commerce in E-Commerce sales Dashboard Project 4" to interact with the visualization
+Dashboard: Open the dashbord file in "E-Commerce in E-Commerce sales Dashboard Project 4" to interact with the visualization.
+
+## Project Gallery
 
 ![alt text](https://github.com/udeme054/Task-4/blob/d73d162664d3403a57a01bc08dda1a4f3755399b/E-Commerce%20sales%20Analysis%20%20dashboard%20for%20project%204%20at%20Decode%20lab.jpg)
 
