@@ -28,6 +28,7 @@ Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
 
 ## 4. Revenue per Customer
 An efficiency metric calculated by dividung total revenue by total number of uniue customers over a specific period
+
 Revenue per customer = Divide ([Total revenue],[Total customers])
 
 ## 5. Total Quantity
