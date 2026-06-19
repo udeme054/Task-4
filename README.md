@@ -26,6 +26,29 @@ Total Orders = DISTINCTCOUNT('Cleaned data'[Order ID])
 Calculates the average monetary amount spent every time a customer places an order.
 Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
 
+## 4. Revenue per Customer
+An efficiency metric calculated by dividung total revenue by total number of uniue customers over a specific period
+Revenue per customer = Divide ([Total revenue],[Total customers])
+
+## 5. Total Quantity
+The gross volume of individual items sold across all transactions during a given period
+Total Quantity = Sum('Cleaned data' [Quantity])
+
+## 6. Total Customers
+The unique number of individual buyers who have completed at least one transaction within a specific timeframe.
+Total Customers = DISTINCTCOUNT('Cleaned data'[CustomerID])
+
+Key Insights
+📈 Revenue peaked in June ($171K), indicating a strong mid-year sales performance.
+📉 A noticeable decline in revenue and orders occurred from July to September, suggesting possible seasonal demand fluctuations.
+🪑 Chair ($196K) and Printer ($196K) generated the highest revenue among all products, making them top-performing product categories.
+📱 Phone ($152K) generated the lowest revenue, presenting an opportunity for sales improvement.
+💳 Credit Card ($264K) and Online Payments ($262K) were the most preferred payment methods, contributing the highest revenue.
+📢 Instagram ($276K) emerged as the most effective referral source, outperforming Email, Google, Facebook, and direct referrals.
+📦 Order statuses are relatively balanced, indicating a stable order fulfillment process, though cancellations and returns still require attention.
+
+
+
 
 
 
