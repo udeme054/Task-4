@@ -150,4 +150,6 @@ The business recorded **$1.26M in revenue from 1,200 orders and 1,189 customers*
 ## Author
 **Udeme Jackson**
 Data Analyst
-[LinkedIn](#) | [GitHub](#) | [Email](#)
+[LinkedIn](https://lnkd.in/p/e_rSEdTM) 
+[GitHub](https://github.com/udemejackson) 
+[Email](udemejackson2016@gmail.com)
