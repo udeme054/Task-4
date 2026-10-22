@@ -147,6 +147,9 @@ Answers to the business questions:
 ## Conclusion
 The business recorded **$1.26M in revenue from 1,200 orders and 1,189 customers**, with an average order value of $1,054. Sales are spread evenly across products, channels and payment methods, with June as the peak and Instagram as the best channel. However, the high share of cancelled and returned orders (41%), declining year-over-year sales and almost no repeat customers are the main areas to fix.
 
+# Photo Gallery for dashboard
+![(https://github.com/udeme054/Task-4/blob/8da34836693aeeafc9f6c6b67404d849aa64015d/E-Commerce%20Sales%20Dashboard%20Project%204/E-Commerce%20sales%20Analysis%20%20dashboard%20for%20project%204%20at%20Decode%20lab.jpg)]
+
 ## Author
 **Udeme Jackson**
 Data Analyst
