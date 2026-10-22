@@ -1,6 +1,6 @@
 # E-Commerce Sales Analysis Dashboard (Power BI)
 
-## Table of Contents
+## Table of Contents 
 1. [Project Title](#e-commerce-sales-analysis-dashboard-power-bi)
 2. [Project Overview](#project-overview)
 3. [Business Objectives](#business-objectives)
